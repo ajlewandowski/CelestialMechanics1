@@ -1,6 +1,6 @@
 ﻿Celestial Mechanics 1 Homework Repository Read Me
  
-Alec Lewandowski Last updated 4/2/26
+Alec Lewandowski Last updated 12/17/25
 
 
 
