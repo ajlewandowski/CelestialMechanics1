@@ -8,7 +8,7 @@ Homework Submission for ASE388.P2 - Celestial Mechanics 1 at UT Austin
 
 Homework problem statements and supplementary files belong to Ryan Russell 
 
-Submissions and code belong to Alec Lewandowski
+Submission PDFs, maple files, and code belong to Alec Lewandowski
 
 
 
